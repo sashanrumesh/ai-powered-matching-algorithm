@@ -182,13 +182,13 @@ Open a Pull Request
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 👨‍💻 Author
-Your Name
+Sashan Rumesh
 
-GitHub: @your-username
+GitHub: @sashan-Rumesh
 
-LinkedIn: Your Profile
+LinkedIn:https://www.linkedin.com/in/sashan-rumesh-7020aa26a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
 
-Portfolio: yourwebsite.com
+Portfolio: [yourwebsite.com](https://sashanrumesh.github.io/Sashan_Rumesh_Portfolio/)
 
 🙏 Acknowledgments
 Inspired by modern dating and social connection platforms
