@@ -1,0 +1,101 @@
+user_id,name,age,location_lat,location_lon,hobbies,is_online,available_weekends,available_weekdays
+0,Francisco Parker,48,40.56970484861151,-73.66668238479828,"['photography', 'chess', 'running']",True,False,False
+1,David Mathis,39,40.82455546608578,-74.26865113149408,"['traveling', 'music', 'cooking', 'gaming']",True,False,True
+2,Joyce Kirby,55,40.97755061942032,-73.62152132264252,"['traveling', 'hiking', 'running', 'painting', 'coding', 'gaming']",True,True,False
+3,Cole Burke,22,40.40984987625949,-73.62439744551281,"['coding', 'gardening', 'blogging', 'running', 'movies', 'reading']",True,True,False
+4,Julie Stafford,52,40.31630049966634,-73.71345270090724,"['movies', 'reading', 'coding']",True,False,False
+5,Erin Nguyen,37,41.142034790278956,-74.01626185517303,"['hiking', 'yoga', 'music']",False,True,False
+6,Angel Winters,47,40.95307104879529,-74.12127138351472,"['painting', 'photography', 'movies']",False,True,True
+7,Michelle Wong,59,40.69888637285693,-74.08425307853753,"['gaming', 'coding', 'movies']",False,True,True
+8,Todd Norris,55,40.548615344107276,-74.41959933957106,"['movies', 'painting', 'reading', 'blogging', 'music']",True,False,False
+9,Darrell Ortiz,63,40.2266229624845,-73.78785919750824,"['dancing', 'coding', 'yoga', 'traveling']",True,True,False
+10,Jamie Ross,45,41.073217786710885,-74.12322121812315,"['running', 'coding', 'movies', 'gardening']",True,False,True
+11,David Gonzales,67,40.570595767437545,-73.99082239542989,"['photography', 'hiking', 'traveling', 'cooking', 'swimming', 'cycling']",False,False,True
+12,James Lee,67,40.736264057347576,-73.79058475437492,"['movies', 'reading', 'coding']",False,True,False
+13,David Wilson,53,40.97768985631609,-74.1903075932998,"['running', 'dancing', 'blogging']",False,False,True
+14,Jessica Freeman,70,40.94354041742404,-73.65157742492363,"['blogging', 'swimming', 'hiking']",True,False,False
+15,Brian Campbell,55,40.52873054743339,-73.93486073731344,"['chess', 'reading', 'traveling', 'movies', 'gardening']",True,False,True
+16,Miguel Green,20,40.979842904470786,-74.22936549378487,"['painting', 'yoga', 'running']",True,True,False
+17,Austin Byrd,27,40.86756231754796,-73.7928772210835,"['running', 'photography', 'yoga', 'music']",False,False,True
+18,Joshua Young,66,40.349842335607164,-74.31209806928045,"['blogging', 'swimming', 'music', 'chess', 'photography', 'gardening']",True,True,True
+19,Samuel Foster,40,40.45736487441861,-73.73497695263279,"['gaming', 'blogging', 'yoga', 'swimming']",True,False,False
+20,Jerry Johnson,34,40.33722409028798,-74.00123336604511,"['chess', 'hiking', 'coding', 'gaming', 'swimming', 'running']",False,True,True
+21,Cynthia Alvarez,25,40.69432836431497,-73.84262659481999,"['reading', 'chess', 'coding', 'photography', 'running', 'traveling']",False,False,False
+22,Ashley Hines,50,40.4110479463009,-74.27451600902553,"['yoga', 'running', 'photography', 'cycling', 'gardening']",True,True,False
+23,Edward Roberts,33,41.17158241539185,-73.67686367189465,"['music', 'cooking', 'traveling', 'coding', 'gardening', 'painting']",True,True,True
+24,Jacob Mccoy,63,41.00133459840918,-74.49090510368693,"['blogging', 'cooking', 'painting', 'reading', 'traveling']",True,False,False
+25,Shane Lowe,58,40.97074341202804,-73.53136585612376,"['gaming', 'yoga', 'coding', 'swimming', 'photography']",True,False,True
+26,Sarah Burns,27,40.33149798411872,-74.11285757556644,"['gardening', 'gaming', 'dancing', 'painting', 'running', 'hiking']",True,False,True
+27,Zachary Malone,18,41.16103142161531,-74.2605589741929,"['traveling', 'yoga', 'reading', 'dancing']",True,False,True
+28,Dr. William Martin,42,40.560126802544964,-74.24668355363407,"['dancing', 'cooking', 'photography', 'hiking', 'reading', 'blogging']",False,True,False
+29,Steven Leonard,37,40.62431199808108,-73.93923877211168,"['reading', 'dancing', 'yoga', 'gaming']",True,False,True
+30,Jaclyn Cook,41,40.94360879494496,-73.75976003665879,"['gaming', 'gardening', 'yoga', 'hiking', 'traveling']",False,False,True
+31,James Butler,65,40.81640815324905,-74.07493972751104,"['painting', 'reading', 'running', 'photography']",True,False,False
+32,Timothy Collins,41,40.28335296735026,-73.87235067625845,"['painting', 'dancing', 'swimming', 'yoga', 'coding']",False,True,False
+33,Steven Carr,65,41.02826014928092,-74.0388389635952,"['photography', 'movies', 'reading', 'traveling', 'cooking', 'painting']",True,False,False
+34,Brian Farmer,53,40.36690015183058,-73.70835268671121,"['blogging', 'yoga', 'traveling', 'gaming']",False,False,False
+35,Crystal Adkins,64,40.5425203873958,-73.68721173863808,"['swimming', 'reading', 'cooking', 'painting', 'yoga', 'blogging']",True,False,False
+36,Mrs. Hannah Graham,66,40.35701231878422,-74.38984778604942,"['swimming', 'yoga', 'running', 'music', 'painting', 'gaming']",False,True,False
+37,Mitchell Barrera,37,41.0499846658411,-74.28092238171273,"['gaming', 'photography', 'blogging', 'running', 'music']",True,True,False
+38,Mr. Matthew Bryan MD,57,40.31235760174607,-74.40886714797858,"['reading', 'gardening', 'music', 'painting']",True,False,True
+39,Mr. James Wolf MD,63,40.482451366829736,-73.95295469248164,"['gardening', 'yoga', 'photography']",True,False,True
+40,Aimee Klein,39,40.453241637632935,-73.53029345433255,"['coding', 'movies', 'blogging', 'reading', 'cooking']",True,True,False
+41,Maxwell Booker,24,40.24892842147217,-73.57394125762139,"['dancing', 'photography', 'cycling', 'painting', 'gaming']",False,False,False
+42,Kelly Roberts,47,41.01963401557638,-73.64642220120435,"['yoga', 'traveling', 'swimming', 'blogging', 'reading', 'cycling']",True,False,True
+43,Thomas Ferrell,32,40.27646480178732,-74.49592193528615,"['reading', 'yoga', 'dancing']",True,True,True
+44,Dana Robertson,19,40.56223179109355,-73.56008948953028,"['swimming', 'yoga', 'chess']",True,False,False
+45,Dorothy Wallace,42,40.45385190140151,-73.72125901174178,"['blogging', 'gaming', 'gardening', 'traveling', 'running', 'cooking']",True,True,False
+46,Darlene Adams,36,40.76734147992308,-74.49718216481673,"['music', 'gardening', 'gaming', 'dancing', 'reading']",True,True,False
+47,Nicole Williams,45,40.39722665542582,-73.73051556595067,"['photography', 'chess', 'reading']",True,True,False
+48,James Shaw,22,40.31051924784626,-73.7211419626042,"['cycling', 'photography', 'swimming']",True,True,False
+49,Sergio Lambert,56,40.78676612294628,-73.53900493730929,"['hiking', 'reading', 'chess', 'cooking', 'movies']",False,True,False
+50,Paul Wilson,35,40.594487000701704,-74.20696838521015,"['gardening', 'reading', 'running', 'hiking', 'photography', 'yoga']",True,False,False
+51,Mr. John Chapman MD,54,40.87055755073669,-74.38432618883861,"['dancing', 'photography', 'reading']",True,True,True
+52,Melissa Allen,28,41.17180730136351,-73.6670752545625,"['swimming', 'dancing', 'gaming']",False,True,True
+53,Stephanie Cabrera,46,40.342409373227504,-74.14444477495178,"['painting', 'movies', 'yoga', 'gaming', 'running', 'hiking']",True,True,True
+54,Crystal Wheeler,48,40.92799250601936,-73.5381243431757,"['traveling', 'coding', 'cooking', 'chess', 'gardening', 'yoga']",False,False,False
+55,Cynthia Sparks,24,40.54277706117552,-73.63137461512868,"['reading', 'movies', 'chess']",True,False,False
+56,Elizabeth Silva,45,40.68241972786768,-73.79080001847747,"['painting', 'swimming', 'dancing', 'hiking', 'movies', 'yoga']",True,False,True
+57,Philip Smith,65,40.31348710461233,-74.41346765581402,"['swimming', 'blogging', 'hiking']",False,True,True
+58,Michael Marquez,26,40.40381890012382,-73.95340183267527,"['cycling', 'gardening', 'chess']",True,True,True
+59,Megan Horton,68,41.04393879162442,-74.14821816011833,"['chess', 'photography', 'movies', 'blogging', 'swimming', 'traveling']",True,False,True
+60,Ariel Bass,34,40.92935312238783,-73.51913392150385,"['cooking', 'cycling', 'yoga', 'traveling', 'gardening']",True,True,False
+61,Nicole George,59,40.77936686708268,-73.81898793522429,"['blogging', 'cycling', 'dancing', 'gardening', 'chess', 'running']",True,False,True
+62,Linda Johnson,57,40.746116805327624,-73.61351194186187,"['cycling', 'blogging', 'gaming']",False,True,False
+63,Dylan Collier,60,40.83906648526203,-74.48094840115792,"['blogging', 'traveling', 'yoga', 'cooking', 'gardening', 'running']",False,False,False
+64,Cynthia Hill,29,40.49367437386279,-73.54852187843194,"['running', 'hiking', 'reading']",True,False,False
+65,Dillon Morales,50,40.38618443725008,-73.97712583927277,"['cooking', 'coding', 'painting', 'music', 'blogging', 'cycling']",False,False,False
+66,Brendan Roth,56,41.094028749604355,-74.42418956225093,"['gaming', 'music', 'dancing', 'swimming', 'chess', 'running']",True,False,False
+67,Jacob Mahoney,21,41.08547850258982,-74.09190276969494,"['photography', 'reading', 'blogging', 'cycling', 'gaming', 'dancing']",True,False,False
+68,Gregory Riddle,63,40.712203151384735,-73.51527179297959,"['coding', 'gaming', 'swimming', 'painting', 'cooking']",False,False,True
+69,Pamela Henry,63,40.662846865738324,-74.3716306262803,"['running', 'chess', 'hiking']",True,True,False
+70,Sarah Davidson,48,40.6838271037024,-73.99545338118922,"['swimming', 'photography', 'running', 'dancing', 'chess']",True,False,True
+71,Kimberly Rivera,54,40.5392615877908,-74.42214386428942,"['running', 'gaming', 'hiking', 'chess']",True,False,True
+72,Danielle Robinson,33,41.031790138123725,-74.00505097535881,"['swimming', 'gaming', 'blogging']",False,True,True
+73,Ryan Roberts,63,40.56726794968681,-73.90702832171318,"['hiking', 'reading', 'cooking']",True,False,False
+74,Melissa Taylor,40,40.62959955359742,-73.96252106230828,"['blogging', 'chess', 'cycling']",True,True,False
+75,Michelle Knox,38,40.278962059829055,-73.97051405720475,"['dancing', 'painting', 'running', 'chess', 'gardening']",False,False,True
+76,Bryan Stewart,21,41.02382736533639,-74.31891006129402,"['coding', 'reading', 'yoga', 'gardening', 'cycling', 'running']",True,True,False
+77,Lorraine Mills,70,40.67195145251738,-73.97988528403243,"['swimming', 'chess', 'blogging', 'music', 'traveling']",True,True,False
+78,Johnathan Stone,44,41.14071034111375,-73.51533458394013,"['dancing', 'blogging', 'coding', 'movies']",True,True,True
+79,Antonio Jones,64,40.81806659526513,-74.11587486371417,"['dancing', 'swimming', 'yoga', 'cooking', 'reading', 'hiking']",True,True,True
+80,Matthew Hansen,54,40.44886468135316,-73.93113038789899,"['movies', 'coding', 'yoga', 'swimming', 'running', 'photography']",True,True,False
+81,Anthony Adams,33,40.677304636073224,-73.82964498971504,"['swimming', 'reading', 'hiking', 'yoga']",True,True,True
+82,Carl Watkins,20,40.74949149854787,-73.86058294552842,"['swimming', 'hiking', 'blogging', 'cycling', 'painting']",True,True,True
+83,Leslie Strickland,63,40.77775566581679,-74.21175368420477,"['dancing', 'hiking', 'gaming', 'photography', 'painting']",False,False,False
+84,Barry Richardson,24,40.87190620546504,-73.74643735325529,"['photography', 'cooking', 'music', 'cycling', 'reading', 'painting']",True,True,False
+85,Mr. Darin Brown,19,40.7331657792061,-74.31951252905732,"['music', 'yoga', 'blogging']",True,True,True
+86,Amber Barr,21,41.0667336192149,-74.01426877241826,"['painting', 'yoga', 'music']",False,False,False
+87,Donna Reed,42,41.0150462043805,-73.76358844791845,"['hiking', 'photography', 'running']",True,False,True
+88,Meredith Patterson,44,40.24632709416958,-73.56284691749484,"['running', 'traveling', 'chess', 'dancing', 'yoga', 'gardening']",False,False,True
+89,Natalie Melendez,32,40.31738474284862,-73.67944834361438,"['movies', 'dancing', 'running', 'chess', 'traveling', 'yoga']",True,False,False
+90,Susan Baker,40,41.11262366675176,-73.6938525958859,"['music', 'photography', 'traveling', 'cycling']",True,False,True
+91,Elijah Dixon,48,41.071686911431804,-74.48947521037739,"['blogging', 'reading', 'painting', 'gaming']",True,False,True
+92,Janice Cervantes,23,40.67028153455562,-73.88963220150185,"['reading', 'photography', 'cooking', 'chess', 'gaming', 'traveling']",True,True,True
+93,Stephanie Wood,31,40.581453389434664,-73.68359454268125,"['hiking', 'music', 'dancing', 'photography']",True,False,True
+94,Cody Campbell,42,41.19668734063664,-74.38625810723404,"['chess', 'hiking', 'music', 'cooking', 'gardening', 'gaming']",True,True,False
+95,Jonathan Thomas,25,40.41642859010814,-73.51431006010209,"['traveling', 'chess', 'blogging']",False,False,False
+96,Karl Schmidt,52,40.59880373686658,-74.40353410228039,"['hiking', 'dancing', 'swimming']",True,True,True
+97,Jose Juarez,50,40.231301726761124,-73.93712984125769,"['cycling', 'traveling', 'music', 'gaming', 'chess']",True,True,True
+98,Jonathon Baker,34,40.49600318362852,-74.19608814791684,"['cooking', 'photography', 'movies', 'reading']",True,False,True
+99,Adam Allen,66,40.457160466345,-74.18450090501294,"['movies', 'gaming', 'painting']",False,False,True
